@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\bin\Debug\net8.0\BlogApp.exe
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\bin\Debug\net8.0\BlogApp.deps.json
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\bin\Debug\net8.0\BlogApp.runtimeconfig.json
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\bin\Debug\net8.0\BlogApp.dll
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\bin\Debug\net8.0\BlogApp.pdb
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\BlogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\BlogApp.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\BlogApp.AssemblyInfo.cs
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\BlogApp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\BlogApp.dll
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\refint\BlogApp.dll
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\BlogApp.pdb
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\BlogApp.genruntimeconfig.cache
+C:\Users\hasan\source\repos\CSharpSelfStudy\BlogApp\obj\Debug\net8.0\ref\BlogApp.dll
