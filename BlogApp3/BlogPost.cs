@@ -7,7 +7,7 @@ namespace BlogApp3
 
         private static int nextPostId = 1;
 
-        // Encapsulated fields
+        
         private int postId;
         private string title;
         private User author;
