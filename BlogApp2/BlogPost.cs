@@ -17,7 +17,7 @@ namespace BlogApp2
 
         public string Title
         {
-            get => title;
+            get => title;        //creating access to private string title
             set
             {
                 if (!string.IsNullOrWhiteSpace(value))
