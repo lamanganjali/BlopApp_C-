@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace BlogApp2
 {
-    // Custom exception for permission errors
+    
     
 
     public class User
